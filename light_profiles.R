@@ -12,8 +12,8 @@
 
 
 #Enter computer number  1=Paul Desktop, 2=Paul MacBook, 3=FLAMe Book
-{compnum=c(1)
-if(compnum==1){
+compnum=c(1)
+{if(compnum==1){
   dir=c("B:/Dropbox/FLAMe_Light/light_profiles")
   dir2=("B:/Dropbox/FLAMe_Light/processed_data")
 }else if(compnum==2){
