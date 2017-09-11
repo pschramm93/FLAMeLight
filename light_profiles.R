@@ -10,6 +10,7 @@
 # Calculate kD
 
 
+
 #Enter computer number  1=Paul Desktop, 2=Paul MacBook, 3=FLAMe Book
 {compnum=c(1)
 if(compnum==1){
